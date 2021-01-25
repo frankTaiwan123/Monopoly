@@ -1,2 +1,2 @@
 # Monopoly
-Monopoly game(c++)
+Monopoly game
